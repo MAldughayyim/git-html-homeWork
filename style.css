@@ -1,0 +1,9 @@
+.div-pic{
+    text-align: center;
+}
+
+.pic{
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+}
